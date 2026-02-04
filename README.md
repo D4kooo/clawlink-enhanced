@@ -465,6 +465,6 @@ MIT — See original [clawlink](https://github.com/openclaw/skills/tree/main/ski
 ## Credits
 
 - Original ClawLink by [OpenClaw](https://github.com/openclaw)
-- Enhanced by [D4kooo](https://github.com/D4kooo) & community
+- Enhanced by [D4kooo](https://github.com/D4kooo)
 
 *Built for better agent-to-agent communication* 🤝
