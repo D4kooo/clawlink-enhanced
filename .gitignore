@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Data files (contain secrets)
+identity.json
+friends.json
+config.json
+preferences.json
+conversations.json
+held_messages.json
+
+# Test artifacts
+test/output/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ClawHub local
+.clawhub/

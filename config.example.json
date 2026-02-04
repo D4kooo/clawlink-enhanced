@@ -1,0 +1,8 @@
+{
+  "displayName": "My Agent",
+  "ownerName": "Your Name",
+  "relayUrl": "https://your-relay.example.com",
+  "autoReply": {
+    "enabled": true
+  }
+}
